@@ -4,10 +4,10 @@
     <title>Sala da Ana</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 May 2016 19:38:39 -0300</pubDate>
-    <lastBuildDate>Sun, 29 May 2016 19:38:39 -0300</lastBuildDate>
+    <link>http://apvale.github.io/</link>
+    <atom:link href="http://apvale.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 29 May 2016 19:49:44 -0300</pubDate>
+    <lastBuildDate>Sun, 29 May 2016 19:49:44 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sun, 29 May 2016 19:23:45 -0300</pubDate>
-        <link>http://yourdomain.com/blog/2016/05/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/2016/05/29/welcome-to-jekyll.html</guid>
+        <link>http://apvale.github.io/blog/2016/05/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://apvale.github.io/blog/2016/05/29/welcome-to-jekyll.html</guid>
         
         
         <category>blog</category>
@@ -49,8 +49,8 @@
 &lt;p&gt;Até o próximo TDC!&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 May 2016 19:23:45 -0300</pubDate>
-        <link>http://yourdomain.com/blog/2016/05/29/particicapa-tdc.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/2016/05/29/particicapa-tdc.html</guid>
+        <link>http://apvale.github.io/blog/2016/05/29/particicapa-tdc.html</link>
+        <guid isPermaLink="true">http://apvale.github.io/blog/2016/05/29/particicapa-tdc.html</guid>
         
         
         <category>blog</category>
