@@ -13,5 +13,3 @@ Na trilha coordenada pelos grandes Nando e Danilo, pude aprender coisas que nunc
 Além de tudo isso, o network que a gente tem nesses eventos é maravilhoso e enriquece bastante e te faz buscar conhecimento onde você nem sabia que existia.
 
 Até o próximo TDC!
-
-:)
